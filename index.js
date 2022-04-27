@@ -1,4 +1,3 @@
-/*! jquery.iframetracker v2.1.0 | https://github.com/vincepare/iframeTracker-jquery | Copyright (c) 2013-2018 Vincent Paré | Licensed Apache-2.0 */
 /*! jquery.iframetracker v2.1.0 | https://github.com/vincepare/iframeTracker-jquery | Copyright (c) 2013-2018 Vincent Paré | Licensed Apache-2.0 */ ! function(e, r) {
     "function" == typeof define && define.amd ? define(["jquery"], function(e) {
         return r(e)
